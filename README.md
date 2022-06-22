@@ -38,3 +38,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santos-7a9298195/?locale=en_US) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.ns.santos@gmail.com)
 [![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit)](mailto:danielspovv@hotmail.com)
+
+![Snake animation](https://github.com/DanielSantos01/DanielSantos01/blob/output/github-contribution-grid-snake.svg)
